@@ -1,2 +1,2 @@
-print("güncelleme ! ")
+print("new_update")
 
